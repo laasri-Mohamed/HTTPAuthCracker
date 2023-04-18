@@ -1,4 +1,4 @@
-# HTTPAuthenticationCracker
+# HTTPAuthCracker
 Brute forcing HTTP Basic Authentication, written with python
 
 # Usage
